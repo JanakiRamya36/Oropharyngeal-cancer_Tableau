@@ -27,10 +27,8 @@ These insights underscore the need for targeted cancer screening, public health 
 - Use filters to view cancer trends by age, year, age-adjusted rate and crude rates.
 
 ## Author 
-Janaki Ramya Namburu
-
-email: janakiramyan36@gmail.com
-
+Janaki Ramya Namburu\
+email: janakiramyan36@gmail.com\
 LinkedIn: www.linkedin.com/in/janakiramya
 
 
