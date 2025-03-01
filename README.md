@@ -3,10 +3,6 @@
 ## Project Overview
 This project analyzes oropharyngeal cancer trends using a dataset of 4,500 observaions spanning from 2011 to 2020, sourced from the Centers for Disease Control and Prevention (CDC). The study examines cancer incidence and mortality based on age, gender, race, and geographical location across 52 U.S. states. Using Tableau, I created a Tableau story to present key insights, helping identify disparities and patterns in cancer prevalence.
 
-## Tools used:
-- **Tableau Prep** for data cleaning and preprocessing
-- **Tableau Desktop** for data visualization
-
 ## The Data Story
 This study provides a comprehensive analysis of oropharyngeal cancer trends, emphasizing critical findings:
 - **Age**: Cancer incidence is significantly higher in individuals aged 65+, with 85+ being the most affected group.
@@ -15,6 +11,10 @@ This study provides a comprehensive analysis of oropharyngeal cancer trends, emp
 - **Geographical Location**: Minnesota has the highest age-adjusted rate and Florida, Wisconsin, and Delaware show the highest crude rates, emphasizing regional disparities.
 
 These insights underscore the need for targeted cancer screening, public health policies, and resource allocation in high-risk regions.
+
+## Tools used:
+- **Tableau Prep** for data cleaning and preprocessing
+- **Tableau Desktop** for data visualization
 
 ## Repository Structure
 - **`Oropharyngeal_Cancer_Analysis.twbx`** - Tableau packaged workbook containing all visualizations
